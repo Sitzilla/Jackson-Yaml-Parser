@@ -1,0 +1,18 @@
+---
+  customers:
+    -
+      name: "cutco"
+      id: "1234"
+      deployment_date: 2015-01-30
+      conversion_types: ["conversion1", "conversion2"]
+      datasource_ids: ["abc", "123"]
+    -
+      name: "othercutco"
+      id: "4567"
+      deployment_date: 2014-12-01
+      conversion_types: ["kkk", "789", "xyz"]
+    -
+      name: "walmart"
+      id: "abc123"
+      deployment_date: 2011-01-01
+      conversion_types: ["annyeong"]
